@@ -455,12 +455,12 @@ def generate_fibonacci(limit):
 
     return fib_sequence
 
-limit = int(input('Enter the upper limit for fibonacci series: '))
-print(generate_fibonacci(limit))
+# limit = int(input('Enter the upper limit for fibonacci series: '))
+# print(generate_fibonacci(limit))
 
 
 #example 
-for i in range(1, 6):
-    print('*'*i)
+# for i in range(1, 6):
+#     print('*'*i)
 
     
